@@ -1,0 +1,6 @@
+application/cache/*
+application/logs/*
+composer.lock
+*.zip
+*.rar
+user_guide*
